@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+AI-powered+software;I+turn+ideas+into+working+products;Python+%7C+React+%7C+FastAPI+%7C+Machine+Learning;Shipping+useful+projects%2C+one+commit+at+a+time" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=I+build+AI-powered+software;I+turn+ideas+into+working+products;Voice+AI+%7C+Creator+Tools+%7C+Chrome+Extensions+%7C+Fintech;Shipping+useful+projects%2C+one+commit+at+a+time" alt="Typing animation" />
   </a>
 </p>
 
@@ -30,21 +30,21 @@
     <td width="58%" valign="top">
       <h2>About Me</h2>
       <p>
-        I am a developer building practical software with AI, full-stack web tools, and automation. I like projects that move from idea to usable product: models, APIs, interfaces, data pipelines, and workflows that solve real problems.
+        I build practical AI and full-stack products: voice assistants, creator tools, Chrome extensions, and finance apps. I like projects that feel useful in real life, not just demo code.
       </p>
       <ul>
-        <li>Currently building AI tools, short-form video automation, and applied ML projects.</li>
-        <li>Interested in machine learning, web apps, computer vision, recommendation systems, and developer productivity.</li>
-        <li>Strongest when I am learning by building real projects end to end.</li>
-        <li>Open to collaboration on AI, web, and student-focused products.</li>
+        <li>Building a Jarvis-style AI voice assistant with automation features.</li>
+        <li>Creating AI video tools like AI Shorts Generator and SHORTSMITH.</li>
+        <li>Working on a quiz-helper Chrome extension for studying faster.</li>
+        <li>Built a personal finance manager with Plaid bank connections.</li>
       </ul>
     </td>
     <td width="42%" valign="top">
       <h2>Current Snapshot</h2>
       <table>
-        <tr><td><strong>Building</strong></td><td>AI apps and automation systems</td></tr>
-        <tr><td><strong>Learning</strong></td><td>Better ML pipelines and scalable backends</td></tr>
-        <tr><td><strong>Stack</strong></td><td>Python, React, FastAPI, SQL</td></tr>
+        <tr><td><strong>Building</strong></td><td>AI assistants and creator tools</td></tr>
+        <tr><td><strong>Learning</strong></td><td>Scalable backends, product UX, applied AI</td></tr>
+        <tr><td><strong>Stack</strong></td><td>Python, React, FastAPI, Node.js, SQL</td></tr>
         <tr><td><strong>Goal</strong></td><td>Ship useful products with clean UX</td></tr>
       </table>
     </td>
@@ -63,9 +63,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extension" />
+  <img src="https://img.shields.io/badge/Plaid-111827?style=for-the-badge&logo=plaid&logoColor=white" alt="Plaid" />
+  <img src="https://img.shields.io/badge/AI%20Automation-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI Automation" />
 </p>
 
 ---
@@ -74,27 +74,39 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/nikhilnathi2003/Ai-shorts-generator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilnathi2003&repo=Ai-shorts-generator&theme=tokyonight&hide_border=true&border_radius=12" alt="Ai-shorts-generator repository card" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>Jarvis AI Voice Assistant</h3>
+      <p>Voice-controlled AI assistant for commands, automation, answers, and productivity workflows.</p>
+      <p><img src="https://img.shields.io/badge/status-uploading%20soon-F59E0B?style=flat-square" alt="Uploading soon" /> <img src="https://img.shields.io/badge/type-AI%20Assistant-38BDF8?style=flat-square" alt="AI Assistant" /></p>
     </td>
-    <td width="50%">
-      <a href="https://github.com/nikhilnathi2003/SHORTSMITH">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilnathi2003&repo=SHORTSMITH&theme=tokyonight&hide_border=true&border_radius=12" alt="SHORTSMITH repository card" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nikhilnathi2003/Ai-shorts-generator">AI Shorts Generator</a></h3>
+      <p>Full-stack AI pipeline that turns a prompt into a captioned vertical video with script, voice, visuals, and timing.</p>
+      <p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/nikhilnathi2003/AI-MODEL">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilnathi2003&repo=AI-MODEL&theme=tokyonight&hide_border=true&border_radius=12" alt="AI-MODEL repository card" />
-      </a>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/nikhilnathi2003/SHORTSMITH">SHORTSMITH</a></h3>
+      <p>Creator tool for YouTube Shorts that helps generate titles, descriptions, hashtags, posting insights, and upload workflows.</p>
+      <p><img src="https://img.shields.io/badge/Creator%20Tools-A855F7?style=flat-square" alt="Creator tools" /> <img src="https://img.shields.io/badge/Automation-22C55E?style=flat-square" alt="Automation" /></p>
     </td>
-    <td width="50%">
-      <a href="https://github.com/nikhilnathi2003/Leaf-Disease-Detection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilnathi2003&repo=Leaf-Disease-Detection&theme=tokyonight&hide_border=true&border_radius=12" alt="Leaf-Disease-Detection repository card" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>AI Study Companion</h3>
+      <p>Chrome extension that helps with quizzes by analyzing questions, generating study help, and keeping useful history.</p>
+      <p><img src="https://img.shields.io/badge/status-uploading%20soon-F59E0B?style=flat-square" alt="Uploading soon" /> <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extension" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Personal Finance Manager</h3>
+      <p>Private finance app using Plaid bank connections to track accounts, transactions, and personal spending insights.</p>
+      <p><img src="https://img.shields.io/badge/status-cleaning%20for%20upload-F59E0B?style=flat-square" alt="Cleaning for upload" /> <img src="https://img.shields.io/badge/Plaid-111827?style=flat-square&logo=plaid&logoColor=white" alt="Plaid" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>What I Build</h3>
+      <p>AI products, browser tools, creator automation, personal apps, and experiments that solve real workflow problems.</p>
+      <p><img src="https://img.shields.io/badge/focus-products%20over%20demos-38BDF8?style=flat-square" alt="Products over demos" /></p>
     </td>
   </tr>
 </table>
@@ -105,10 +117,10 @@
 
 <table>
   <tr>
-    <td align="center" width="25%"><strong>AI Systems</strong><br />Model experiments, generation tools, and automation workflows.</td>
-    <td align="center" width="25%"><strong>Web Apps</strong><br />Frontend interfaces connected to practical backend services.</td>
-    <td align="center" width="25%"><strong>Computer Vision</strong><br />Image-based detection and applied ML ideas.</td>
-    <td align="center" width="25%"><strong>Data Products</strong><br />Recommendation systems and insight-driven applications.</td>
+    <td align="center" width="25%"><strong>Voice AI</strong><br />Assistants, commands, local workflows, and automation.</td>
+    <td align="center" width="25%"><strong>Creator Tools</strong><br />Short-form video generation, metadata, and upload workflows.</td>
+    <td align="center" width="25%"><strong>Browser Extensions</strong><br />Quiz helpers, study tools, OCR, and page analysis.</td>
+    <td align="center" width="25%"><strong>Fintech Apps</strong><br />Plaid integrations, personal finance dashboards, and transaction insights.</td>
   </tr>
 </table>
 
@@ -166,15 +178,13 @@
 ---
 
 <details>
-  <summary><strong>More Things I Like Building</strong></summary>
+  <summary><strong>Projects I Am Preparing To Upload</strong></summary>
   <br />
 
-  - AI-powered productivity tools
-  - Short-form video generation pipelines
-  - Full-stack dashboards and creator tools
-  - Computer vision systems for real-world images
-  - Recommendation systems and data-backed decision tools
-  - Automation that removes repetitive work
+  - Jarvis AI Voice Assistant
+  - AI Study Companion Chrome Extension
+  - Personal Finance Manager with Plaid
+  - Cleaner versions of my strongest AI creator tools
 
 </details>
 
@@ -189,7 +199,7 @@
 </p>
 
 <p align="center">
-  <strong>Building, learning, and shipping useful software.</strong>
+  <strong>Building AI products, creator tools, browser extensions, and fintech experiments.</strong>
 </p>
 
 <p align="center">
