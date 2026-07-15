@@ -1,0 +1,8 @@
+﻿<svg width="240" height="120" viewBox="0 0 240 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Gotham-inspired bat mark</title>
+  <desc id="desc">A custom angular bat silhouette for Nikhil Nathi's GitHub profile.</desc>
+  <rect width="240" height="120" rx="20" fill="#05070A"/>
+  <path d="M20 64C34 54 48 49 62 49C70 49 76 51 83 55C88 44 96 36 108 30L120 50L132 30C144 36 152 44 157 55C164 51 170 49 178 49C192 49 206 54 220 64C203 65 190 70 181 80C170 75 158 73 145 75C138 81 130 86 120 90C110 86 102 81 95 75C82 73 70 75 59 80C50 70 37 65 20 64Z" fill="#0B1120" stroke="#38BDF8" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M84 57C93 60 102 66 111 76L120 88L129 76C138 66 147 60 156 57" stroke="#93A4B8" stroke-width="3" stroke-linecap="round"/>
+  <path d="M108 30L120 50L132 30L126 62H114L108 30Z" fill="#111827" stroke="#38BDF8" stroke-width="3" stroke-linejoin="round"/>
+</svg>
