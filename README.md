@@ -75,9 +75,9 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Jarvis AI Voice Assistant</h3>
+      <h3><a href="https://github.com/nikhilnathi2003/jarvis-ai-voice-assistant">Jarvis AI Voice Assistant</a></h3>
       <p>Voice-controlled AI assistant for commands, automation, answers, and productivity workflows.</p>
-      <p><img src="https://img.shields.io/badge/status-uploading%20soon-F59E0B?style=flat-square" alt="Uploading soon" /> <img src="https://img.shields.io/badge/type-AI%20Assistant-38BDF8?style=flat-square" alt="AI Assistant" /></p>
+      <p><img src="https://img.shields.io/badge/status-public%20repo-22C55E?style=flat-square" alt="Public repo" /> <img src="https://img.shields.io/badge/type-AI%20Assistant-38BDF8?style=flat-square" alt="AI Assistant" /></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/nikhilnathi2003/Ai-shorts-generator">AI Shorts Generator</a></h3>
@@ -92,16 +92,16 @@
       <p><img src="https://img.shields.io/badge/Creator%20Tools-A855F7?style=flat-square" alt="Creator tools" /> <img src="https://img.shields.io/badge/Automation-22C55E?style=flat-square" alt="Automation" /></p>
     </td>
     <td width="50%" valign="top">
-      <h3>AI Study Companion</h3>
+      <h3><a href="https://github.com/nikhilnathi2003/ai-study-companion">AI Study Companion</a></h3>
       <p>Chrome extension that helps with quizzes by analyzing questions, generating study help, and keeping useful history.</p>
-      <p><img src="https://img.shields.io/badge/status-uploading%20soon-F59E0B?style=flat-square" alt="Uploading soon" /> <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extension" /></p>
+      <p><img src="https://img.shields.io/badge/status-public%20repo-22C55E?style=flat-square" alt="Public repo" /> <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extension" /></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Personal Finance Manager</h3>
+      <h3><a href="https://github.com/nikhilnathi2003/personal-finance-manager-plaid">Personal Finance Manager</a></h3>
       <p>Private finance app using Plaid bank connections to track accounts, transactions, and personal spending insights.</p>
-      <p><img src="https://img.shields.io/badge/status-cleaning%20for%20upload-F59E0B?style=flat-square" alt="Cleaning for upload" /> <img src="https://img.shields.io/badge/Plaid-111827?style=flat-square&logo=plaid&logoColor=white" alt="Plaid" /></p>
+      <p><img src="https://img.shields.io/badge/status-public%20repo-22C55E?style=flat-square" alt="Public repo" /> <img src="https://img.shields.io/badge/Plaid-111827?style=flat-square&logo=plaid&logoColor=white" alt="Plaid" /></p>
     </td>
     <td width="50%" valign="top">
       <h3>What I Build</h3>
@@ -181,9 +181,9 @@
   <summary><strong>Projects I Am Preparing To Upload</strong></summary>
   <br />
 
-  - Jarvis AI Voice Assistant
-  - AI Study Companion Chrome Extension
-  - Personal Finance Manager with Plaid
+  - [Jarvis AI Voice Assistant](https://github.com/nikhilnathi2003/jarvis-ai-voice-assistant)
+  - [AI Study Companion Chrome Extension](https://github.com/nikhilnathi2003/ai-study-companion)
+  - [Personal Finance Manager with Plaid](https://github.com/nikhilnathi2003/personal-finance-manager-plaid)
   - Cleaner versions of my strongest AI creator tools
 
 </details>
